@@ -1,0 +1,8 @@
+com\upiiz\inventories\config\SecurityConfig.class
+com\upiiz\inventories\repository\InventoryRepository.class
+com\upiiz\inventories\responses\CustomResponse.class
+com\upiiz\inventories\controller\InventoryController.class
+com\upiiz\inventories\ProyectoFinalApplication.class
+com\upiiz\inventories\config\OpenApiConfiguration.class
+com\upiiz\inventories\services\InventoryService.class
+com\upiiz\inventories\entities\Inventory.class
